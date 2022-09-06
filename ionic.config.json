@@ -1,0 +1,7 @@
+{
+  "name": "win-the-day-actual",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
